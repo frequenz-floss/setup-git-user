@@ -1,3 +1,8 @@
+# Archived!
+
+> [!WARNING]
+> To set up the Git user you can now use the more general purpose [frequenz-floss/gh-action-setup-git](https://github.com/frequenz-floss/gh-action-setup-git/) action.
+
 # setup-git-user
 
 > GitHub Action that sets git user and email to enable committing
